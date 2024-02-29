@@ -1,4 +1,4 @@
-Hi 👋 My name is Maksat Sarsenbaev
+Hi 👋 My name is Maksat Sarsenbayev
 ==================================
 
 I'm Node.js backend developer (i hope)
