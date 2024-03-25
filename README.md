@@ -1,7 +1,7 @@
 Hi 👋 My name is Maksat Sarsenbayev
 ==================================
 
-I'm Node.js backend developer (i hope)
+I'm Node.js backend developer
 --------------------------------------
 
 * 🌍  I'm based in Omsk, Siberia
