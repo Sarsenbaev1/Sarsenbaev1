@@ -6,7 +6,6 @@ I'm Node.js backend developer
 
 * 🌍  I'm based in Omsk, Siberia
 * 💼 I'm study at the Faculty of Information Technology and Computer Systems at OmSTU
-* ✉️  You can contact me at [88890025m@gmail.com](mailto:88890025m@gmail.com)
 * 🧠  I'm learning Nest.js
 * 🤝  I'm open to collaborating on interesting Node.js projects
 
